@@ -420,13 +420,17 @@
 * [ ] 036 周天魔戒指＋1
 * [x] 037 咬血戒指
 * [ ] 038 咬血戒指＋1
+* [ ] 078 封壞護指
+* [x] 079 封壞護指＋1
+* [x] 080 封壞護指＋2
 * [x] 039 咬咒戒指
 * [x] 040 灰之護指
 * [x] 041 刃之戒指
 * [x] 042 刃之戒指＋1
 * [ ] 043 刃之戒指＋2
 * [x] 044 祈禱戒指（Ring of Prayer）
-* [x] 045 石之戒指（Stone Ring）
+* [x] 097 睿智戒指（Ring of Knowledge）
+* [ ] 045 石之戒指（Stone Ring）
 * [x] 046 紅淚石戒指（Red Tearstone Ring）
 * [x] 047 藍淚石戒指（Blue Tearstone Ring）
 * [x] 048 巨人戒指
@@ -435,12 +439,15 @@
 * [x] 051 遠古獅子戒指（Old Leo Ring）
 * [x] 052 靈魂庇佑戒指（Ring of Soul Protection）
 * [x] 053 生命庇佑戒指（Ring of Life Protection）
+* [x] 103 佇立龍徽戒指
+* [ ] 104 佇立龍徽戒指＋1
+* [ ] 105 佇立龍徽戒指＋2
 * [x] 054 澄澈蒼石戒指
 * [x] 055 澄澈蒼石戒指＋1
 * [ ] 056 澄澈蒼石戒指＋2
 * [x] 057 北廟祭祀指冠
 * [ ] 058 北廟祭祀指冠＋1
-* [ ] 059 北廟祭祀指冠＋2
+* [x] 059 北廟祭祀指冠＋2
 * [x] 060 南廟祭祀指冠
 * [x] 061 南廟祭祀指冠＋1
 * [ ] 062 南廟祭祀指冠＋2
@@ -459,16 +466,13 @@
 * [x] 075 紅眼戒指（Redeye Ring）
 * [x] 076 刻名戒指（Name-Engraved Ring）
 * [x] 077 遠古太陽戒指（Old Sun Ring）
-* [ ] 078 封壞護指
-* [x] 079 封壞護指＋1
-* [x] 080 封壞護指＋2
 * [x] 081 戈達守護戒指（Gower's Ring of Protection）
 * [ ] 082 凶鳥戒指（Baneful Bird Ring）
 * [ ] 083 抵抗者戒指
 * [ ] 084 抵抗者戒指＋1
 * [x] 085 死者戒指（Ring of the Dead）
 * [x] 086 荊棘戒指
-* [ ] 087 荊棘戒指＋1
+* [x] 087 荊棘戒指＋1
 * [ ] 088 荊棘戒指＋2
 * [x] 089 細語戒指（Ring of Whispers）
 * [ ] 090 老鷹戒指（Hawk Ring）
@@ -478,16 +482,11 @@
 * [ ] 094 火之怪手戒指（Fire Clutch Ring）
 * [ ] 095 雷之怪手戒指（Lightning Clutch Ring）
 * [ ] 096 暗之怪手戒指（Dark Clutch Ring）
-* [ ] 097 睿智戒指（Ring of Knowledge）
 * [ ] 098 力之戒指（Strength Ring）
 * [ ] 099 敏捷戒指（Dexterity Ring）
 * [ ] 100 愚者戒指（Simpleton's Ring）
 * [ ] 101 封人戒指（Ring of the Embedded）
 * [ ] 102 約亞戒指（Yorgh's Ring）
-* [ ] 103 佇立龍徽戒指
-* [ ] 104 佇立龍徽戒指＋1
-* [ ] 105 佇立龍徽戒指＋2
-* [ ] 106 空之戒指（Agape Ring）
 * [ ] 107 靜音龍徽戒指（Slumbering Dragoncrest Ring）
 * [ ] 108 白戒指（White Ring）
 * [ ] 109 生者戒指（Ring of the Living）
@@ -502,6 +501,7 @@
 * [ ] 118 霸者徽記（Vanquisher's Seal）
 * [ ] 119 古龍徽記（Ancient Dragon Seal）
 * [x] 120 深淵徽記（Abyss Seal）
+* [x] 106 無底戒指（Agape Ring）
 * [ ] 121 征服者幻影戒指（Illusory Ring of a Conqueror）
 * [ ] 122 超越者幻影戒指（Illusory Ring of the Exalted）
 
