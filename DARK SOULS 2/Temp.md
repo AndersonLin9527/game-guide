@@ -18,6 +18,13 @@ https://github.com/AndersonLin9527/game-guide
 - 參考分支 `main`：
     - `DARK SOULS 2/DARK SOULS II：原罪學者版全收集進度.md`。
     - `DARK SOULS 2/Walkthrough-攻略/15.安第爾之館-01.守護龍.md`
+- 翻譯修正：
+    - 不遜者 -> 無禮者
+    - **強化素材** 火種 -> 餘燼
+    - 米勒的露卡提耶爾 -> 米勒的魯卡提耶
+    - 周天祛魔戒指 -> 周天魔戒指
+    - 魔女黑枝（Black Witch's Staff）-> 魔女黑枝
+- 透過分支 `ai/base` 更新 `15.安第爾之館-01.守護龍.md` 並發 PR 至分支 `main`。
 - 透過分支 `ai/base` 更新 `DARK SOULS 2/DARK SOULS II：原罪學者版全收集進度.md` 並發 PR 至分支 `main`。
     - 使用者在意但不限於以下章節：
         - 02 本階段完成紀錄
@@ -29,10 +36,4 @@ https://github.com/AndersonLin9527/game-guide
         - 06 戒指盤點：請協助整理序號、取得狀態
         - 09-15 安第爾之館
         - 需持續追蹤 **NPC** 宮廷魔法師納瓦藍（Royal Sorcerer Navlaan）暗殺任務，參考：`DARK SOULS 2/Walkthrough-攻略/15.安第爾之館-01.守護龍.md`
-    - 翻譯修正：
-        - 不遜者 -> 無禮者
-        - **強化素材** 火種 -> 餘燼 
-        - 米勒的露卡提耶爾 -> 米勒的魯卡提耶
-        - 周天祛魔戒指 -> 周天魔戒指 
-        - 魔女黑枝（Black Witch's Staff）-> 魔女黑枝
-- 目前位置：如密
+- 目前位置：火點衛龍巢穴—衛龍巢穴
