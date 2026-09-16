@@ -21,3 +21,15 @@ https://github.com/AndersonLin9527/game-guide
 
 - 主要文件 06 戒指盤點 我已更新，請以目前內容為主
 - 購買帝國軍盾：5,800 靈魂
+
+------------------------------------------------------
+
+https://github.com/AndersonLin9527/game-guide
+
+- 我已經合併所有分支
+- 參考分支 `main`：
+    - `DARK SOULS 2/DARK SOULS II：原罪學者版全收集進度.md`。
+    - `DARK SOULS 2/Walkthrough-攻略/17.巨人記憶-01.巨人王.md`
+- 更新攻略文件：`DARK SOULS 2/Walkthrough-攻略/17.巨人記憶-01.巨人王.md`。
+    - 請回頭補一下巨人殞落之森火蜥蜴區域的收集
+- 請於分支 `ai/base` 上撰寫，並對分支 `main` 發送 PR。
