@@ -11,6 +11,8 @@ https://github.com/AndersonLin9527/game-guide
         - 05 Boss 進度
         - 06 戒指盤點
         - 09-16 衛龍巢穴
+        - 獲得 **戒指** 佇立龍徽戒指＋1
+        - 使用「營火探究者」擊敗堆土塔：毒妃米妲，獲得 **戒指** 貪婪銀蛇戒指＋2
 - 新增攻略文件：`DARK SOULS 2/Walkthrough-攻略/18.不死靈廟-02.汎克拉德.md`。
     - 攻略寫法參考 `DARK SOULS 2/Walkthrough-攻略` 目錄下最新文件的寫法。
     - 攻略內容特別追蹤：
