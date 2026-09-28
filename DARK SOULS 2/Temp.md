@@ -14,7 +14,7 @@ https://github.com/AndersonLin9527/game-guide
         - 06 戒指盤點
           - 使用者會依遊戲介面改變戒指順序，請協助更新序號
           - 請特別參考文件 `20.DLC 2 鐵之古王的王冠-黑霧之塔-01.煙之騎士.md` 已取得戒指，協助更新。
-- 新增攻略文件：`DARK SOULS 2/Walkthrough-攻略/20.DLC 2 鐵之古王的王冠-霧之塔-01.{BOSS名稱}.md`。 
+- 新增攻略文件：`DARK SOULS 2/Walkthrough-攻略/20.DLC 2 鐵之古王的王冠-黑霧之塔-02.騎士亞倫.md`。 
     - 攻略寫法：
         - 參考 `DARK SOULS 2/Walkthrough-攻略` 目錄下最新 git 文件的寫法。
         - 以火點到火點之間規劃應該取得的物品
@@ -22,6 +22,7 @@ https://github.com/AndersonLin9527/game-guide
         - NPC／入侵 NPC／可召喚 NPC
         - 強化素材：`光輝楔形石`、`龍骨化石`。
         - BOSS 弱點：弱點屬性、弱打擊/斬擊/刺擊、不適合使用黑暗武器附魔的 BOSS 需要額外提醒。
+        - 順便提供我 11 個煤炭之像的 YouTube 攻略影片
 - 請於分支 `ai/base` 上撰寫，並對分支 `main` 發送 PR。
 - 目前位置：如密
 
