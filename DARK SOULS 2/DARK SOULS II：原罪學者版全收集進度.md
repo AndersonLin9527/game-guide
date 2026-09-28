@@ -367,7 +367,7 @@
 * [x] 001 生命戒指
 * [x] 002 生命戒指＋1
 * [x] 003 生命戒指＋2
-* [ ] 004 生命戒指＋3
+* [x] 004 生命戒指＋3
 * [x] 005 綠花戒指
 * [x] 006 綠花戒指＋1
 * [x] 007 綠花戒指＋2
@@ -383,7 +383,7 @@
 * [x] 017 法術晶石戒指
 * [x] 018 法術晶石戒指＋1
 * [x] 019 法術晶石戒指＋2
-* [ ] 020 法術晶石戒指＋3
+* [x] 020 法術晶石戒指＋3
 * [x] 021 火晶石戒指
 * [x] 022 火晶石戒指＋1
 * [x] 023 火晶石戒指＋2
@@ -406,7 +406,7 @@
 * [x] 040 咬咒戒指
 * [x] 041 灰之護指
 * [x] 042 周天魔戒指
-* [ ] 043 周天魔戒指＋1
+* [x] 043 周天魔戒指＋1
 * [x] 044 刃之戒指
 * [x] 045 刃之戒指＋1
 * [ ] 046 刃之戒指＋2
@@ -451,7 +451,6 @@
 * [x] 085 老鷹戒指（Hawk Ring）
 * [x] 086 遠古太陽戒指（Old Sun Ring）
 * [x] 087 死者戒指（Ring of the Dead）
-* [ ] 088 凶鳥戒指（Baneful Bird Ring）
 * [ ] 089 抵抗者戒指
 * [ ] 090 抵抗者戒指＋1
 * [x] 091 荊棘戒指
@@ -460,13 +459,6 @@
 * [x] 094 細語戒指（Ring of Whispers）
 * [ ] 095 弗林戒指（Flynn's Ring）
 * [ ] 096 白之戰士戒指（Ivory Warrior Ring）
-* [ ] 097 魔法怪手戒指（Sorcery Clutch Ring）
-* [ ] 098 火之怪手戒指（Fire Clutch Ring）
-* [ ] 099 雷之怪手戒指（Lightning Clutch Ring）
-* [ ] 100 暗之怪手戒指（Dark Clutch Ring）
-* [ ] 101 力之戒指（Strength Ring）
-* [ ] 102 敏捷戒指（Dexterity Ring）
-* [ ] 103 愚者戒指（Simpleton's Ring）
 * [ ] 104 封人戒指（Ring of the Embedded）
 * [ ] 105 約亞戒指（Yorgh's Ring）
 * [ ] 106 靜音龍徽戒指（Slumbering Dragoncrest Ring）
@@ -483,6 +475,14 @@
 * [ ] 117 霸者徽記（Vanquisher's Seal）
 * [x] 118 古龍徽記（Ancient Dragon Seal）
 * [x] 119 深淵徽記（Abyss Seal）
+* [x] 103 愚者戒指（Simpleton's Ring）
+* [x] 101 力之戒指（Strength Ring）
+* [x] 102 敏捷戒指（Dexterity Ring）
+* [x] 097 魔法怪手戒指（Sorcery Clutch Ring）
+* [ ] 098 火之怪手戒指（Fire Clutch Ring）
+* [ ] 099 雷之怪手戒指（Lightning Clutch Ring）
+* [ ] 100 暗之怪手戒指（Dark Clutch Ring）
+* [x] 088 凶鳥戒指（Baneful Bird Ring）
 * [x] 120 無底戒指（Agape Ring）
 * [ ] 121 征服者幻影戒指（Illusory Ring of a Conqueror）
 * [ ] 122 超越者幻影戒指（Illusory Ring of the Exalted）
@@ -976,7 +976,7 @@
 
 ### 09-20 DLC 2 鐵之古王的王冠／霧之塔
 
-- [Walkthrough-攻略-20.DLC 2 鐵之古王的王冠-霧之塔-01.煙之騎士.md](./Walkthrough-攻略/20.DLC%202%20鐵之古王的王冠-霧之塔-01.煙之騎士.md)
+- [Walkthrough-攻略-20.DLC 2 鐵之古王的王冠-黑霧之塔-01.煙之騎士.md](./Walkthrough-攻略/20.DLC%202%20鐵之古王的王冠-黑霧之塔-01.煙之騎士.md)
 
 * [x] 決定先攻略DLC2「鐵之古王的王冠」。
 * [x] 起點：如密；入口祭壇已發現。
@@ -1014,7 +1014,7 @@
 
 ## 11 參考資料與查核範圍
 
-* [Walkthrough-攻略-20.DLC 2 鐵之古王的王冠-霧之塔-01.煙之騎士](./Walkthrough-攻略/20.DLC%202%20鐵之古王的王冠-霧之塔-01.煙之騎士.md)：DLC2入口、霧之塔固定收集、熔鐵楔、入侵／召喚NPC與煙之騎士攻略。
+* [Walkthrough-攻略-20.DLC 2 鐵之古王的王冠-黑霧之塔-01.煙之騎士](./Walkthrough-攻略/20.DLC%202%20鐵之古王的王冠-黑霧之塔-01.煙之騎士.md)：DLC2入口、霧之塔固定收集、熔鐵楔、入侵／召喚NPC與煙之騎士攻略。
 
 * [Walkthrough-攻略-16.衛龍巢穴-01.古龍](./Walkthrough-攻略/16.衛龍巢穴-01.古龍.md)：衛龍巢穴、龍祭壇、古龍、古龍鱗片誓約與龍之記憶完成狀態的主要依據。
 * [Walkthrough-攻略-17.巨人記憶-01.巨人王](./Walkthrough-攻略/17.巨人記憶-01.巨人王.md)：本次巨人記憶、巨人王、班荷特與巨人們的靈魂完成狀態的主要依據。
